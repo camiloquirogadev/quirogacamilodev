@@ -5,8 +5,7 @@ import './globals.css'
 
 export const metadata: Metadata = {
   title: 'qc dev',
-  description: 'Created with v0',
-  generator: 'v0.dev',
+  description: 'Created by the qc dev team',
 }
 
 export default function RootLayout({
