@@ -25,3 +25,36 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# Node.js
+node_modules/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Compilados
+dist/
+build/
+# Variables de entorno
+.env
+.env.*
+# Mac
+.DS_Store
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# VS Code
+.vscode/
+# Logs
+*.log
+
+# SQLite u otras DB locales
+*.sqlite
+*.db
+coverage/
+.nyc_output/
+.cache/
